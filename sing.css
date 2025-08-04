@@ -1,0 +1,80 @@
+#box{
+    width: 480px;
+    height: 650px;
+    background-color: black;
+    padding-top: 25px;
+    margin-left: 350px;
+    opacity: 0.8;
+    margin-bottom: 60px;
+}
+.input1{
+    width: 300px;
+    height: 45px;
+    background-color: rgb(32, 30, 30);
+    color: white;
+    border-radius: 4px;
+    border: none;
+    border: 2px solid rgb(100, 93, 93);
+    font-size: 20px;
+    padding-left: 20px;
+    margin-left: 60px;
+
+
+}
+#btnsing{
+    width: 329px;
+    height: 45px;
+    background-color: rgb(212, 8, 8);
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 60px;
+    margin-top: 20px;;
+}
+#btnsing:hover{
+    background-color: rgb(244, 4, 4);
+}
+h5{
+    margin-left: 200px;
+    font-size: larger;
+}
+#btn1sing{
+    width: 329px;
+    height: 45px;
+    background-color: rgb(97, 85, 85);
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 60px;
+    margin-top: 20px;;
+}
+#head{
+    margin-left: 60px;
+    font-size: 40px;
+    font-family: sans-serif;;
+}
+#forgot{
+    margin-left: 160px;
+    font-size: 16px;;
+}
+#radio{
+    margin-left: 60px;
+    width: 20px;
+    height: 20px;
+}
+p{
+    margin-left: 60px;
+}
+#learn{
+    margin-left: 60px;
+    color: rgb(122, 122, 243);
+}
+.b{
+    font-size: small;
+}
+#footer{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(31, 28, 28);
+
+}
