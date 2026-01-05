@@ -62,8 +62,9 @@
     display: flexbox;
     justify-content: center;
     background-color: remove;
-    margin-left: 250px;
-    margin-top: 250px;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 30%;
 }
 #input{
     width: 290px;
